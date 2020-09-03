@@ -1,0 +1,5 @@
+  pip
+  jupyter-contrib-nbextensions
+  rise
+  pandas
+  ipyleaflet
